@@ -1,0 +1,7 @@
+﻿  heap.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab3\lab3\heap.cpp(19): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab3\lab3\heap.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab3\lab3\heap.cpp(24): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab3\lab3\heap.cpp(73): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab3\lab3\heap.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+  lab3.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\algo_labs\lab3\Debug\lab3.exe
